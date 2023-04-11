@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{BB23FA75-8DB6-45DC-B01B-0122FCF4F859}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.G3PTUDTMDT PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="G3PTUDTMDT/appsettings.json">
+    <Files>
+      <File FileName="G3PTUDTMDT/appsettings.json" Line="9" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="G3PTUDTMDT" expanded="True">
+            <Node name="G3PTUDTMDT" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
