@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Nội dung bài học\\Phát triển Ứng dụng\\fashion-prj-final\\G3PTUDTMDT\\G3PTUDTMDT\\G3PTUDTMDT.csproj": {}
+    "/Users/alpha/Documents/GitHub/fashion-prj-final/G3PTUDTMDT/G3PTUDTMDT/G3PTUDTMDT.csproj": {}
   },
   "projects": {
-    "D:\\Nội dung bài học\\Phát triển Ứng dụng\\fashion-prj-final\\G3PTUDTMDT\\G3PTUDTMDT\\G3PTUDTMDT.csproj": {
+    "/Users/alpha/Documents/GitHub/fashion-prj-final/G3PTUDTMDT/G3PTUDTMDT/G3PTUDTMDT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nội dung bài học\\Phát triển Ứng dụng\\fashion-prj-final\\G3PTUDTMDT\\G3PTUDTMDT\\G3PTUDTMDT.csproj",
+        "projectUniqueName": "/Users/alpha/Documents/GitHub/fashion-prj-final/G3PTUDTMDT/G3PTUDTMDT/G3PTUDTMDT.csproj",
         "projectName": "G3PTUDTMDT",
-        "projectPath": "D:\\Nội dung bài học\\Phát triển Ứng dụng\\fashion-prj-final\\G3PTUDTMDT\\G3PTUDTMDT\\G3PTUDTMDT.csproj",
-        "packagesPath": "C:\\Users\\UEH\\.nuget\\packages\\",
-        "outputPath": "D:\\Nội dung bài học\\Phát triển Ứng dụng\\fashion-prj-final\\G3PTUDTMDT\\G3PTUDTMDT\\obj\\",
+        "projectPath": "/Users/alpha/Documents/GitHub/fashion-prj-final/G3PTUDTMDT/G3PTUDTMDT/G3PTUDTMDT.csproj",
+        "packagesPath": "/Users/alpha/.nuget/packages/",
+        "outputPath": "/Users/alpha/Documents/GitHub/fashion-prj-final/G3PTUDTMDT/G3PTUDTMDT/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\UEH\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/alpha/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +38,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.4, )"
@@ -70,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
