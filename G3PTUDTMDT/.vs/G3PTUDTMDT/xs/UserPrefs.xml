@@ -1,14 +1,23 @@
 ﻿<Properties StartupConfiguration="{BB23FA75-8DB6-45DC-B01B-0122FCF4F859}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.G3PTUDTMDT PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="G3PTUDTMDT/appsettings.json">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="G3PTUDTMDT/Program.cs">
     <Files>
-      <File FileName="G3PTUDTMDT/appsettings.json" Line="14" Column="1" />
-      <File FileName="G3PTUDTMDT/Program.cs" />
-      <File FileName="G3PTUDTMDT/Properties/launchSettings.json" Line="17" Column="9" />
-      <File FileName="G3PTUDTMDT/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="G3PTUDTMDT/appsettings.json" Line="10" Column="23" />
+      <File FileName="G3PTUDTMDT/Program.cs" Line="2" Column="84" />
+      <File FileName="G3PTUDTMDT/Properties/launchSettings.json" />
+      <File FileName="G3PTUDTMDT/Controllers/HomeController.cs" />
+      <File FileName="G3PTUDTMDT/Models/Book.cs" />
+      <File FileName="G3PTUDTMDT/Models/Admin.cs" />
+      <File FileName="G3PTUDTMDT/Models/Customer.cs" />
+      <File FileName="G3PTUDTMDT/Models/Category.cs" />
+      <File FileName="G3PTUDTMDT/Models/Orderdetail.cs" Line="15" Column="23" />
+      <File FileName="G3PTUDTMDT/Models/Tacgia.cs" />
+      <File FileName="G3PTUDTMDT/Models/Province.cs" />
+      <File FileName="G3PTUDTMDT/Models/District.cs" />
+      <File FileName="G3PTUDTMDT/Models/Order.cs" />
+      <File FileName="G3PTUDTMDT/Models/ErrorViewModel.cs" />
+      <File FileName="G3PTUDTMDT/Models/Bookdbcontext.cs" Line="8" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -30,7 +39,8 @@
                 <Node name="js" expanded="True" />
                 <Node name="lib" expanded="True" />
               </Node>
-              <Node name="appsettings.json" expanded="True" selected="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -40,7 +50,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.G3PTUDTMDT PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
 </Properties>
